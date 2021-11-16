@@ -2,7 +2,6 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gusarov2906&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 ![](https://raw.githubusercontent.com/Gusarov2906/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Gusarov2906/github-stats-transparent/output/generated/languages.svg)
 <!--
 **Gusarov2906/Gusarov2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
